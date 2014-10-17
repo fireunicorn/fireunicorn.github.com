@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://fireunicorn.github.io/sitemap.xml 
+Sitemap: https://github.com/fireunicorn/fireunicorn.github.com/sitemap.xml 

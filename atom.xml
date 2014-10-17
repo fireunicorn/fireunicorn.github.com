@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[FireUnicorn's Blog]]></title>
-  <link href="http://fireunicorn.github.io/atom.xml" rel="self"/>
-  <link href="http://fireunicorn.github.io/"/>
-  <updated>2014-10-17T18:25:34+08:00</updated>
-  <id>http://fireunicorn.github.io/</id>
+  <link href="https://github.com/fireunicorn/fireunicorn.github.com/atom.xml" rel="self"/>
+  <link href="https://github.com/fireunicorn/fireunicorn.github.com/"/>
+  <updated>2014-10-17T22:54:12+08:00</updated>
+  <id>https://github.com/fireunicorn/fireunicorn.github.com/</id>
   <author>
     <name><![CDATA[fireunicorn]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[测试博文]]></title>
-    <link href="http://fireunicorn.github.io/blog/2014/10/17/ce-shi-bo-wen/"/>
+    <link href="https://github.com/fireunicorn/fireunicorn.github.com/blog/2014/10/17/ce-shi-bo-wen/"/>
     <updated>2014-10-17T17:14:33+08:00</updated>
-    <id>http://fireunicorn.github.io/blog/2014/10/17/ce-shi-bo-wen</id>
+    <id>https://github.com/fireunicorn/fireunicorn.github.com/blog/2014/10/17/ce-shi-bo-wen</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
